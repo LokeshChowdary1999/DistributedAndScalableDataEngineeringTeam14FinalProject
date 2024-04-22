@@ -1,6 +1,7 @@
 # DistributedAndScalableDataEngineeringTeam14FinalProject
 
-# Twitter Sentiment Analysis Project
+# Optimizing Tweet Sentiment Analysis With EC2 And Airflow: A Distributed Approach
+
 #### Data Set:
 Data Collection using Kaggle API:
 The project begins by importing necessary libraries and setting up Kaggle API credentials.
@@ -33,3 +34,6 @@ The best performing model is then evaluated on the test set to assess its perfor
 The project concludes by summarizing the findings and insights gained from the sentiment analysis of Twitter data.
 It highlights the performance of different machine learning models and provides recommendations or insights based on the analysis.
 Overall, the project aims to perform sentiment analysis on Twitter data to classify tweets into different sentiment categories and provide insights into the sentiment distribution and trends in the dataset.
+
+#### EC2 and Airflow Integration:
+The project leverages EC2 instances for scalable computing power and Airflow for orchestrating the ETL (Extract, Transform, Load) process. This distributed approach ensures efficient data processing and analysis.
