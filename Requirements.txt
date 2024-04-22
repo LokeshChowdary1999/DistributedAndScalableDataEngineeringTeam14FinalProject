@@ -1,0 +1,11 @@
+apache-airflow
+pandas 
+s3fs
+tweepy
+pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+scikit-learn
+kaggle
